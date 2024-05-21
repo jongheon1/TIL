@@ -1,4 +1,4 @@
-# equals 와 hashCode
+# equals and hashCode
 
 ### equals() 란?
 다른 객체가 이 객체와 "동일한지"를 나타냅니다.
