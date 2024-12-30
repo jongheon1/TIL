@@ -6,7 +6,7 @@ Java
 
 Spring
 - [IoC, DI](https://github.com/jongheon1/TIL/blob/main/Spring/IoC_DI.md)
-
+- [restcontroller](https://github.com/jongheon1/TIL/blob/main/Spring/restcontroller.md)
 
 tech-interview
 - Java
