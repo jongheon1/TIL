@@ -11,3 +11,6 @@ Spring
 tech-interview
 - Java
 	- [오버로딩,,오버라이딩,,어쩌구](https://github.com/jongheon1/TIL/blob/main/tech-interview/Java/overloading_overriding)
+
+system-design-interview
+- [chapter 1](https://github.com/jongheon1/TIL/blob/main/system-design-interview/chapter-1.md)
