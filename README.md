@@ -16,5 +16,5 @@ system-design-interview
 - [chapter 1](https://github.com/jongheon1/TIL/blob/main/system-design-interview/chapter-1.md)
 
 algorithm
-- [prefix-sum](https://github.com/jongheon1/TIL/blob/main/algorithm/prefix-sum)
-- [string-search](https://github.com/jongheon1/TIL/blob/main/algorithm/string-search)
+- [prefix-sum](https://github.com/jongheon1/TIL/blob/main/algorithm/prefix-sum.md)
+- [string-search](https://github.com/jongheon1/TIL/blob/main/algorithm/string-search.md)
