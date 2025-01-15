@@ -7,6 +7,7 @@ Java
 Spring
 - [IoC, DI](https://github.com/jongheon1/TIL/blob/main/Spring/IoC_DI.md)
 - [restcontroller](https://github.com/jongheon1/TIL/blob/main/Spring/restcontroller.md)
+- [odd-generic](https://github.com/jongheon1/TIL/blob/main/Java/odd-generic.md)
 
 tech-interview
 - Java
@@ -14,6 +15,9 @@ tech-interview
 
 system-design-interview
 - [chapter 1](https://github.com/jongheon1/TIL/blob/main/system-design-interview/chapter-1.md)
+- [chapter 1 summary](https://github.com/jongheon1/TIL/blob/main/system-design-interview/chapter-1-summary.md)
+- [chapter 2](https://github.com/jongheon1/TIL/blob/main/system-design-interview/chapter-2.md)
+- [chapter 2 summary](https://github.com/jongheon1/TIL/blob/main/system-design-interview/chapter-2-summary.md)
 
 algorithm
 - [prefix-sum](https://github.com/jongheon1/TIL/blob/main/algorithm/prefix-sum.md)
