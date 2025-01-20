@@ -37,7 +37,7 @@ public void pushAll(Iterable<? extends E> src) {
 pushAll 과 짝을 이루는 popAll 도 마찬가지다.
 
 ```java
-public void popAll(Collection<> dst) {
+public void popAll(Collection<E> dst) {
     while (!isEmpty()) {
         dst.add(pop());
     }
